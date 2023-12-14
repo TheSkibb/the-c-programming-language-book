@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int power(int m, int n);
+// function prototype
+int power(int base, int n);
 
 int main(){
     int i;
@@ -22,3 +23,4 @@ int power(int base, int n){
 
     return p;
 }
+

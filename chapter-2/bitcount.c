@@ -16,4 +16,5 @@ int main(){
     printf("%i\n", bitcount(2));
     printf("%i\n", bitcount(3));
     printf("%i\n", bitcount(4));
+    printf("%i\n", bitcount(400000));
 }
